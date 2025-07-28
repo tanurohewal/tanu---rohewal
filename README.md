@@ -16,7 +16,7 @@ My GitHub profile showcasing projects, skills, and learning journey in Python.
 - **Programming:** Python (Basics + Intermediate)  
 - **Concepts:** OOP (Object-Oriented Programming), File Handling  
 - **Data Structures:** Lists, Tuples, Dictionaries  
-- **Tools:** Git & GitHub, VS Code, Jupyter Notebook 
+- **Tools:** Git & GitHub, VS Code
 
 ---
 
